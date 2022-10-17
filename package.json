@@ -1,0 +1,27 @@
+{
+    "name": "Team-profile-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cordovaivan/Team-profile-generator"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/cordovaivan/Team-profile-generator/issues"
+    },
+    "homepage": "https://github.com/cordovaivan/Team-profile-generator/blob/main/README.md",
+    "keywords": [],
+    "dependencies": {
+      "fs": "^0.0.1-security",
+      "inquirer": "^8.1.0",
+      "jest": "^28.1.3"
+    }
+  }
+  
+  
